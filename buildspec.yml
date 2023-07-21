@@ -4,7 +4,7 @@ env:
   variables:
     AWS_ACCOUNT_ID: "203671198827"
     AWS_DEFAULT_REGION: "ap-south-1"
-    IMAGE_REPO_NAME: "docker-rust-hello"
+    IMAGE_REPO_NAME: "ecs-docker-repo"
     IMAGE_TAG: "latest"
 
 phases:
